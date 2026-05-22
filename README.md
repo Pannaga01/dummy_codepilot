@@ -1,1 +1,1 @@
-# dummy_codepilot
+This is a dummy project created for CodePilot.
